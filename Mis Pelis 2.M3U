@@ -264,3 +264,5 @@ https://film.verpelicula.org/film/147441/film.m3u8
 https://film.verpelicula.org/film/602334/film.m3u8
 #EXTINF:-1 tvg-logo="https://verpelicula.org/uploads/sin-escrupulos-469.jpg" group-title= "Suspenso",France  (w-ww.pelistv.top/ )
 https://film.verpelicula.org/film/136835/film.m3u8
+#EXTINF:-1 tvg-logo="https://verpelicula.org/uploads/sin-escrupulos-469.jpg" subtitle="https://upstream.to/srt/empty.srt" group-title= "Suspenso",France  (w-ww.pelistv.top/ )
+https://film.verpelicula.org/film/136835/film.m3u8
